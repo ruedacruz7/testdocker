@@ -4,7 +4,7 @@
 # https://aka.ms/yaml
 variables:  
   trivyVersion: 0.21.0
-  IMAGE: "ruedacruz7/testdocker"
+  IMAGE: "ruedacruz7/testtrivy/tree/master"
 
 trigger:  
 - main
